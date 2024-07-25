@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "styled-components": "^6.1.11"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
